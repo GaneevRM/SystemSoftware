@@ -1,0 +1,35 @@
+﻿///////////////////////
+дата: 21.04.2020 13:12:31
+Описание ошибки: Выберите файл с расширением - .CSV
+Ошибка: Выберите файл с расширением 
+Объект: SP_Ganeev_11
+Метод, вызвавший исключение: Void downloadB_Click(System.Object, System.EventArgs)
+Стэк:    в SP_Ganeev_11.Form2.downloadB_Click(Object sender, EventArgs e) в C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\SP_Ganeev_11\SP_Ganeev_11\Form2.cs:строка 163
+///////////////////////
+дата: 22.04.2020 11:35:28
+Описание ошибки: Выберите файл с расширением - .EXE
+Ошибка: Выберите файл с расширением 
+Объект: SP_Ganeev_11
+Метод, вызвавший исключение: Void inputB_Click(System.Object, System.EventArgs)
+Стэк:    в SP_Ganeev_11.Form2.inputB_Click(Object sender, EventArgs e) в C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\SP_Ganeev_11\SP_Ganeev_11\Form2.cs:строка 213
+///////////////////////
+дата: 22.04.2020 11:36:34
+Описание ошибки: Выберите файл с расширением - .EXE
+Ошибка: Выберите файл с расширением 
+Объект: SP_Ganeev_11
+Метод, вызвавший исключение: Void inputB_Click(System.Object, System.EventArgs)
+Стэк:    в SP_Ganeev_11.Form2.inputB_Click(Object sender, EventArgs e) в C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\SP_Ganeev_11\SP_Ganeev_11\Form2.cs:строка 213
+///////////////////////
+дата: 22.04.2020 11:38:38
+Описание ошибки: Выберите файл с расширением - .CSV
+Ошибка: Выберите файл с расширением 
+Объект: SP_Ganeev_11
+Метод, вызвавший исключение: Void downloadB_Click(System.Object, System.EventArgs)
+Стэк:    в SP_Ganeev_11.Form2.downloadB_Click(Object sender, EventArgs e) в C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\SP_Ganeev_11\SP_Ganeev_11\Form2.cs:строка 163
+///////////////////////
+дата: 22.04.2020 11:38:46
+Описание ошибки: Выберите файл с расширением - .EXE
+Ошибка: Выберите файл с расширением 
+Объект: SP_Ganeev_11
+Метод, вызвавший исключение: Void inputB_Click(System.Object, System.EventArgs)
+Стэк:    в SP_Ganeev_11.Form2.inputB_Click(Object sender, EventArgs e) в C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\SP_Ganeev_11\SP_Ganeev_11\Form2.cs:строка 207

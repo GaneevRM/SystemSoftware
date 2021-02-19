@@ -1,0 +1,58 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace SP_Ganeev_11
+{
+    public partial class Form2 : Form
+    {
+        Logic.LinkedList<string> list = new Logic.LinkedList<string>();
+
+        public Form2()
+        {
+            InitializeComponent();
+        }
+
+        private void downloadB_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        public void ViewAll()
+        {
+            listBox1.Items.Clear();
+            foreach (var item in list)
+            {
+                listBox1.Items.Add(item);         
+            }
+        }
+
+        private void inputB_Click(object sender, EventArgs e)
+        {
+            // Добавляем элементы.
+            list.Add("Имя-Документ Версия-2 Дата-01.04.2020");
+            ViewAll();
+            // list.Add("Имя-Отчёт Версия-1 Дата-19.07.2020");
+            //  list.Add("Имя-Фото Версия-8 Дата-23.03.2020");
+        }
+
+        private void deleteB_Click(object sender, EventArgs e)
+        {
+            if (listBox1.SelectedItem == null)
+            {
+                MessageBox.Show("Выделите строку для удаления");
+            }
+            else
+            { 
+                list.Delete(listBox1.SelectedItem.ToString());
+            }
+            ViewAll();
+        }
+    }
+}
