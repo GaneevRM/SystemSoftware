@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Logic</name>
+    </assembly>
+    <members>
+        <member name="T:Logic.LinkedList`1">
+            <summary>
+            Класс, описывающий односвязный список.
+            </summary>
+            <typeparam name="T">
+            Тип хранимых данных. 
+            </typeparam>
+        </member>
+        <member name="F:Logic.LinkedList`1._head">
+            <summary>
+            Голова списка.
+            </summary>
+        </member>
+        <member name="F:Logic.LinkedList`1._tail">
+            <summary>
+            Хвост списка. 
+            </summary>
+        </member>
+        <member name="F:Logic.LinkedList`1._count">
+            <summary>
+            Количество узлов списка.
+            </summary>
+        </member>
+        <member name="P:Logic.LinkedList`1.Count">
+            <summary>
+            Получение доступа к количеству узлов списка.
+            </summary>
+        </member>
+        <member name="M:Logic.LinkedList`1.Add(`0)">
+            <summary>
+            Добавить данные в связный список.
+            </summary>
+            <param name="data"> 
+            Данные узла.
+            </param>
+        </member>
+        <member name="M:Logic.LinkedList`1.Delete(`0)">
+            <summary>
+            Удаление узла из списка.
+            </summary>
+            <param name="data"> 
+            Данные узла.
+            </param>
+        </member>
+        <member name="M:Logic.LinkedList`1.DeleteIndex(System.Int32)">
+            <summary>
+            Удаление по индексу.
+            </summary>
+            <param name="delindex">
+            Индекс узла для удаления.
+            </param>
+        </member>
+        <member name="M:Logic.LinkedList`1.Edit(`0,`0)">
+            <summary>
+            Редактирование узла списка.
+            </summary>
+            <param name="data">
+            Старые данные узла.
+            </param>
+            <param name="newdata">
+            Новые данные узла.
+            </param>
+        </member>
+        <member name="M:Logic.LinkedList`1.EditIndex(System.Int32,`0)">
+            <summary>
+            
+            </summary>
+            <param name="delindex">
+            Индекс узла для удаления.
+            </param>
+            <param name="newdata">
+            Новые данные узла.
+            </param>
+        </member>
+        <member name="M:Logic.LinkedList`1.Clear">
+            <summary>
+            Очистить список.
+            </summary>
+        </member>
+        <member name="M:Logic.LinkedList`1.GetEnumerator">
+            <summary>
+            Вернуть перечислитель, выполняющий перебор всех узлов в списке.
+            </summary>
+            <returns> 
+            Перечислитель, который можно использовать для итерации по коллекции. 
+            </returns>
+        </member>
+        <member name="M:Logic.LinkedList`1.System#Collections#IEnumerable#GetEnumerator">
+            <summary>
+            Вернуть перечислитель, который осуществляет итерационный переход по списку.
+            </summary>
+            <returns> 
+            Объект IEnumerator, который используется для прохода по коллекции. 
+            </returns>
+        </member>
+        <member name="T:Logic.Node`1">
+            <summary>
+            Класс, описывающий узел односвязного списка.
+            </summary>
+            <typeparam name="T"> 
+            Тип хранимых данных. 
+            </typeparam>
+        </member>
+        <member name="P:Logic.Node`1.Data">
+            <summary>
+            Данные узла.
+            </summary>
+        </member>
+        <member name="P:Logic.Node`1.Next">
+            <summary>
+            Следующий узел списка.
+            </summary>
+        </member>
+        <member name="M:Logic.Node`1.#ctor(`0)">
+            <summary>
+            Создание нового узла списка.
+            </summary>
+            <param name="data">
+            Данные узла.
+            </param>
+        </member>
+        <member name="M:Logic.Node`1.ToString">
+            <summary>
+            Приведение объекта к типу string.
+            </summary>
+            <returns> 
+            Данные узла. 
+            </returns>
+        </member>
+    </members>
+</doc>

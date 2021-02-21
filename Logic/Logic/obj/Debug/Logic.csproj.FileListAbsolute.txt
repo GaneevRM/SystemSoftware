@@ -1,0 +1,12 @@
+c:\users\user\source\repos\Logic\Logic\bin\Debug\Logic.dll
+c:\users\user\source\repos\Logic\Logic\bin\Debug\Logic.pdb
+c:\users\user\source\repos\Logic\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Logic\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Logic\Logic\obj\Debug\Logic.dll
+c:\users\user\source\repos\Logic\Logic\obj\Debug\Logic.pdb
+C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\Logic\Logic\bin\Debug\Logic.dll
+C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\Logic\Logic\bin\Debug\Logic.pdb
+C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\Logic\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\Logic\Logic\obj\Debug\Logic.dll
+C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\Logic\Logic\obj\Debug\Logic.pdb
+C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\Logic\Logic\bin\Debug\Logic.xml
