@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\AsmFunc\AsmFunc\AsmFunc\bin\Debug\AsmFunc.pdb
+C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\AsmFunc\AsmFunc\AsmFunc\obj\Debug\AsmFunc.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\AsmFunc\AsmFunc\AsmFunc\obj\Debug\AsmFunc.pdb
+C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\AsmFunc\AsmFunc\AsmFunc\bin\Debug\AsmFunc.dll
+C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\AsmFunc\AsmFunc\AsmFunc\obj\Debug\AsmFunc.dll
+C:\Users\user\Desktop\Рабочий стол 2\Student\3 курс\2 семак\СП\Programm\AsmFunc\AsmFunc\AsmFunc\obj\Debug\AsmFunc.csprojResolveAssemblyReference.cache
