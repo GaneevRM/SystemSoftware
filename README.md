@@ -25,4 +25,4 @@
 
 ---
 
-![Главная форма](https://github.com/GaneevRM/SystemSoftware/tree/main/Img/1.MainForm.jpg "Орк")
+![Главная форма](https://github.com/GaneevRM/SystemSoftware/blob/main/Img/1.MainForm.jpg "Орк")
