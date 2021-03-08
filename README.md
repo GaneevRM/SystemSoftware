@@ -25,5 +25,7 @@
 
 ---
 
-![Главная форма](https://github.com/GaneevRM/SystemSoftware/blob/main/Img/1.MainForm.jpg)
-Главное окно программы
+<p align="center">
+  <img src="https://github.com/GaneevRM/SystemSoftware/blob/main/Img/1.MainForm.jpg" alt="Главное форма" /><br>
+  Главное окно программы
+</p>
