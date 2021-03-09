@@ -29,3 +29,8 @@
   <img src="https://github.com/GaneevRM/SystemSoftware/blob/main/Img/1.MainForm.jpg" alt="Главное форма" /><br>
   Главное окно программы
 </p>
+
+<p align="center">
+  <img src="https://github.com/GaneevRM/SystemSoftware/blob/main/Img/2.Form1.jpg" alt="Главное форма" /><br>
+  Разбор синтаксических конструкций
+</p>
