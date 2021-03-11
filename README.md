@@ -26,11 +26,16 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/GaneevRM/SystemSoftware/blob/main/Img/1.MainForm.jpg" alt="Главное форма" /><br>
+  <img src="https://github.com/GaneevRM/SystemSoftware/blob/main/Img/1.MainForm.jpg" alt="Главная форма" /><br>
   Главное окно программы
 </p>
-
+<hr>
 <p align="center">
-  <img src="https://github.com/GaneevRM/SystemSoftware/blob/main/Img/2.Form1.jpg" alt="Главное форма" /><br>
+  <img src="https://github.com/GaneevRM/SystemSoftware/blob/main/Img/2.Form1.jpg" alt="Разбор синтаксических конструкций" /><br>
   Разбор синтаксических конструкций
+</p>
+<hr>
+<p align="center">
+  <img src="https://github.com/GaneevRM/SystemSoftware/blob/main/Img/3.Form2.jpg" alt="Работа с файлами .CSV" /><br>
+  Работа с файлами .CSV
 </p>
