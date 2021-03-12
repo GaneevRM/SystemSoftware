@@ -23,7 +23,6 @@
 
 ## Скриншоты программы
 
----
 
 <p align="center">
   <img src="https://github.com/GaneevRM/SystemSoftware/blob/main/Img/1.MainForm.jpg" alt="Главная форма" /><br>
@@ -38,4 +37,14 @@
 <p align="center">
   <img src="https://github.com/GaneevRM/SystemSoftware/blob/main/Img/3.Form2.jpg" alt="Работа с файлами .CSV" /><br>
   Работа с файлами .CSV
+</p>
+<hr>
+<p align="center">
+  <img src="https://github.com/GaneevRM/SystemSoftware/blob/main/Img/4.FormLog.jpg" alt="Работа лога программы" /><br>
+  Работа лога программы
+</p>
+<hr>
+<p align="center">
+  <img src="https://github.com/GaneevRM/SystemSoftware/blob/main/Img/5.Form3.jpg" alt="Вызов низкоуровневых функций" /><br>
+  Вызов низкоуровневых функций
 </p>
